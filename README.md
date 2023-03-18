@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://a-ot.github.io/results-summary-component-main/]
+- Solution URL: [https://github.com/A-OT/results-summary-component-main]
 - Live Site URL: [https://a-ot.github.io/results-summary-component-main/]
 ## My process
 
@@ -41,7 +41,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Desktop-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
