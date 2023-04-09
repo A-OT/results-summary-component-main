@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./Screenshot/Frontend%20Mentor%20-%20Results%20summary%20component%20.png]
+![Image](relative/Screenshot/Frontend%20Mentor%20-%20Results%20summary%20component%20.png)
 
 
 ### Links
